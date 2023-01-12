@@ -1,0 +1,10 @@
+body{
+	 margin-left: 550px;
+	padding: 0;
+	height: 100vh;
+	
+	justify-content: center;
+	align-items: center;
+	background-color: #f7f1e3;
+	background-image: url("cola.png");
+}
